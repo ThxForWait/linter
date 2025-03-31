@@ -1,7 +1,7 @@
 ## Демонстрации
 
 ### Игра "НОК"
-[![НОК - успешная игра](https://asciinema.org/a/EXAMPLE1.png)](https://imgur.com/a/cVlytpj)
+[![НОК - успешная игра](https://i.imgur.com/nyFMeIf.png)](https://imgur.com/a/cVlytpj)
 [![НОК - ошибка](https://asciinema.org/a/EXAMPLE2.png)](https://imgur.com/a/4oAoBEn)
 
 ### Игра "Прогрессия"

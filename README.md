@@ -8,8 +8,8 @@ https://imgur.com/a/4oAoBEn 1 игра праильно
 ## Демонстрации
 
 ### Игра "НОК"
-[![НОК - успешная игра](https://asciinema.org/a/EXAMPLE1.png)](https://asciinema.org/a/EXAMPLE1)
-[![НОК - ошибка](https://asciinema.org/a/EXAMPLE2.png)](https://asciinema.org/a/EXAMPLE2)
+[![НОК - успешная игра](https://asciinema.org/a/EXAMPLE1.png)](https://imgur.com/a/cVlytpj)
+[![НОК - ошибка](https://asciinema.org/a/EXAMPLE2.png)](https://imgur.com/a/cVlytpj)
 
 ### Игра "Прогрессия"
 [![Прогрессия - успех](https://asciinema.org/a/EXAMPLE3.png)](https://imgur.com/a/gdA7vOq)

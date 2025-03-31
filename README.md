@@ -12,5 +12,5 @@ https://imgur.com/a/4oAoBEn 1 игра праильно
 [![НОК - ошибка](https://asciinema.org/a/EXAMPLE2.png)](https://asciinema.org/a/EXAMPLE2)
 
 ### Игра "Прогрессия"
-[![Прогрессия - успех](https://asciinema.org/a/EXAMPLE3.png)](https://asciinema.org/a/EXAMPLE3)
-[![Прогрессия - ошибка](https://asciinema.org/a/EXAMPLE4.png)](https://asciinema.org/a/EXAMPLE4)
+[![Прогрессия - успех](https://asciinema.org/a/EXAMPLE3.png)](https://imgur.com/a/gdA7vOq)
+[![Прогрессия - ошибка](https://asciinema.org/a/EXAMPLE4.png)](https://imgur.com/a/6P3UdCo)

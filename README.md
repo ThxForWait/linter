@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/fe7468cac967a56888e9/maintainability)](https://codeclimate.com/github/ThxForWait/linter/maintainability)
+
 ## Демонстрации
 
 ### Игра "НОК"
